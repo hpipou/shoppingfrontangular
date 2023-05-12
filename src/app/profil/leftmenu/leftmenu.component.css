@@ -1,0 +1,17 @@
+.bg-leftSide{
+  background-color: #1C1A30;
+  height: 100vh;
+  padding-top: 20px;
+}
+
+hr {
+  margin: 1rem 0;
+  color: white;
+  background-color: currentColor;
+  border: 1;
+  opacity: 0.25;
+}
+.bg-leftSide a{
+  color: white !important;
+  margin-left: 20px;
+}
